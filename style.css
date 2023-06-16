@@ -1,0 +1,19 @@
+.input-group-append {
+  cursor: pointer;
+
+  
+}
+
+
+
+
+.footer .container-fluid {
+   background-color:purple 500;
+   }
+
+@media (min-width: 1025px) {
+.h-custom {
+height: 100vh !important;
+}
+}
+
